@@ -1,4 +1,4 @@
-# operadoresJs
+# Como Iniciar o React
 1. INSTALAR O NODEJS
 2. EXECUTAR: 
     npm create vite@latest
